@@ -5,7 +5,7 @@
 This application focuses on using jQuery, day.js and local storage to create a simple work day scheduler. HTML and CSS are dynamically updated with the time, with time blocks adjusting background color according to if the hour is in the past, present, or future. The user inputs calendar items into the text area, and when clicked, the save button puts those items into local storage. Calendar items will also stay saved on the page after refresh.
 
 **Link to Work Day Scheduler:** 
-
+https://tammyh7.github.io/Day-Planner/
 
 
 ## Day Planner Screenshot
